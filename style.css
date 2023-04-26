@@ -1,0 +1,373 @@
+*{
+	
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+	justify-content:center;
+}
+
+
+
+body{
+	overflow-x:hidden;
+}
+
+
+.skilled{
+	position:absolute;
+	right:86%;
+	top:5%;
+	font-size:20px;
+}
+
+.btn{
+	position:absolute;
+	right:10%;
+	top:5%;
+	background-color:#13183f;
+	width:10%;
+	height:6vh;
+	color:white;
+	border-radius:50px;
+	cursor:pointer;
+}
+
+
+
+
+
+.text{
+	position:absolute;
+	right:65%;
+	top:25%;
+	font-size:35px;
+	font-family:Quicksand,sans-serif;
+	
+}
+
+
+ .text1{
+	position:absolute;
+	right:61%;
+	top:40%;
+	font-size:15px;
+	font-family:Quicksand,sans-serif;
+}
+
+
+
+ .btn1{
+	position:absolute;
+	right:75%;
+top:52%;
+	background:linear-gradient(#f02aa6,#ff6f48);
+	width:10%;
+	height:6vh;
+	color:white;
+	border-radius:50px;
+	cursor:pointer;
+	
+}
+
+
+
+
+
+.img{
+	position:absolute;
+	right:-17%;
+	top:-1%;
+	
+}
+
+.container{
+
+	display:flex;
+	flex-wrap:wrap;
+	gap:1.7em;
+	position:absolute;
+	top:70%;
+	right:1%;
+	width:90%;
+	height:20vh;
+
+
+	
+}
+
+
+
+
+
+ .container .ad1{
+font-size:25px;
+padding-left:2em;
+padding-top:3em;
+
+	width:24%;
+	height:35vh;
+	background:linear-gradient(#f02aa6,#ff6f48);
+		box-shadow:0px 2px 3px 0px;
+		color:white;
+		font-family:Quicksand,sans-serif;
+		border-radius:15px;
+		cursor:pointer;
+}
+
+
+
+
+.container .ad2{
+	font-size:20px;
+padding-left:2em;
+padding-top:3.6em;
+	width:24%;
+	height:39vh;
+	background-color:white;
+	box-shadow:0px 1px 1px 0px;
+		border-radius:15px;
+		font-family:Quicksand,sans-serif;
+		cursor:pointer;
+}
+
+ .img1{
+	position:absolute;
+	top:-13%;
+	left:38%;
+	width:80px;
+	height:7vh;
+}
+
+.learn{
+	padding-top:2em;
+	font-size:15px;
+}
+
+
+.get{
+	padding-top:2em;
+	font-size:18px;
+	color:red
+}
+
+
+.container .ad3{
+	font-size:20px;
+padding-left:2em;
+padding-top:4em;
+	width:24%;
+	height:39vh;
+	background-color:white;
+	box-shadow:0px 2px 3px 0px;
+		border-radius:15px;
+		font-fami10ly:Quicksand,sans-serif;
+		cursor:pointer;
+}
+
+
+ .img2{
+	position:absolute;
+	top:-13%;
+	left:64.5%;
+	width:80px;
+	height:7vh;
+}
+
+
+.learn3{
+	padding-left:0em;
+	padding-top:2em;
+	font-size:15px;
+}
+
+
+.get3{
+
+	padding-top:1em;
+	font-size:18px;
+	color:red
+}
+
+
+
+
+
+
+.container .ad4{
+		font-size:20px;
+padding-left:2em;
+padding-top:4em;
+	width:25%;
+	height:39vh;
+	background-color:white;
+	box-shadow:0px 2px 3px 0px;
+	font-family:Quicksand,sans-serif;
+border-radius:15px;
+cursor:pointer;
+}
+
+
+ .img3{
+	position:absolute;
+	top:200%;
+	left:11.5%;
+	width:80px;
+	height:7vh;
+}
+
+
+.learn4{
+	padding-left:0em;
+	padding-top:2em;
+	font-size:15px;
+}
+
+
+.get4{
+
+	padding-top:1em;
+	font-size:18px;
+	color:red
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container .ad5{
+			font-size:20px;
+padding-left:2em;
+padding-top:4em;
+	width:24%;
+	height:39vh;
+	background-color:white;
+	box-shadow:0px 2px 3px 0px;
+	font-family:Quicksand,sans-serif;
+border-radius:15px;
+cursor:pointer;
+}
+
+
+ .img5{
+	position:absolute;
+	top:200%;
+	left:38.9%;
+	width:80px;
+	height:7vh;
+}
+
+
+.learn5{
+	padding-left:0em;
+	padding-top:2em;
+	font-size:15px;
+}
+
+
+.get5{
+
+	padding-top:1em;
+	font-size:18px;
+	color:red
+}
+
+
+
+
+
+
+
+
+.container .ad6{
+			font-size:20px;
+padding-left:2em;
+padding-top:4em;
+	width:24%;
+	height:39vh;
+	box-shadow:0px 2px 3px 0px;
+	background-color:white;
+	font-family:Quicksand,sans-serif;
+border-radius:15px;
+cursor:pointer;
+}
+
+ .img6{
+	position:absolute;
+	top:200%;
+	left:65%;
+	width:80px;
+	height:7vh;
+
+}
+
+
+.learn6{
+	padding-left:0em;
+	padding-top:2em;
+	font-size:15px;
+}
+
+
+.get6{
+
+	padding-top:1em;
+	font-size:18px;
+	color:red
+}
+
+
+
+
+
+
+footer{
+	position:absolute;
+	top:160%;
+	width:130%;
+	height:10vh;
+	background-color:#13183f;
+}
+
+
+.skilled1{
+	top:30%;
+	color:white;
+		position:absolute;	
+		right:85%;
+
+	font-size:20px;
+		
+}
+
+.button{
+		position:absolute;
+	top:20%;
+	color:white;
+background:linear-gradient(#f02aa6,#ff6f48);
+		right:19%;
+		width:10%;
+	height:6vh;
+	border-radius:50px;
+	cursor:pointer;
+}
+
+@media screen and (max-width:650px){
+
+	body{
+		background:url(Gallery/Mobile.png)
+
+	}
+
+
+}
+
+
