@@ -70,7 +70,9 @@ top:52%;
 }
 
 
-
+.btn1:active{
+	color:blue;
+}
 
 
 .img{
@@ -150,6 +152,9 @@ padding-top:2.7em;
 	color:red
 }
 
+.get:active{
+	color:blue;
+}
 
 .container .ad3{
 	font-size:20px;
@@ -188,6 +193,9 @@ padding-top:3em;
 	color:red
 }
 
+.get3:active{
+	color:blue;
+}
 
 .container .ad4{
 		font-size:20px;
@@ -226,7 +234,9 @@ cursor:pointer;
 	color:red
 }
 
-
+.get4:active{
+	color:blue;
+}
 
 .container .ad5{
 			font-size:20px;
@@ -265,7 +275,9 @@ cursor:pointer;
 	color:red
 }
 
-
+.get5:active{
+	color:blue;
+}
 
 
 .container .ad6{
@@ -305,7 +317,9 @@ cursor:pointer;
 	color:red
 }
 
-
+.get6:active{
+	color:blue;
+}
 
 footer{
 	position:absolute;
@@ -338,6 +352,11 @@ background:linear-gradient(#f02aa6,#ff6f48);
 	cursor:pointer;
 }
 
+
+.button:active{
+
+	color:blue;
+}
 
 @media screen and (max-width:650px){
 	
